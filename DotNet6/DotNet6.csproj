@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <PropertyGroup>
+   <_EnableMacOSCodeSign>false</_EnableMacOSCodeSign>
+  </PropertyGroup>
+
 </Project>
